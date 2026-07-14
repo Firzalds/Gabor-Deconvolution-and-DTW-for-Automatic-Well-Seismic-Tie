@@ -115,8 +115,9 @@ Institut Teknologi Sepuluh Nopember (ITS), Surabaya.
 
 ---
 
+
 ## Author
 
 **Firza Rizaldi Suryantoro**  
 Geophysical Engineering, Institut Teknologi Sepuluh Nopember (ITS)  
-Supervised by Ir. Firman Syaifuddin, S.Si., M.T. and Nilla Perdana Agustina, S.T., M.T.
+Supervised by Dr. Ir. Firman Syaifuddin, S.Si., M.T. and Nilla Perdana Agustina, S.T., M.T.
